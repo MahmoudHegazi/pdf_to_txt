@@ -14,3 +14,6 @@ fileReader = PyPDF2.PdfFileReader(file)
 
 # print the number of pages in pdf file
 print(fileReader.numPages)
+
+
+https://automatetheboringstuff.com/chapter13/
