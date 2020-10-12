@@ -17,3 +17,4 @@ print(fileReader.numPages)
 
 
 https://automatetheboringstuff.com/chapter13/
+https://stackoverflow.com/questions/64142307/how-to-extract-only-specific-text-from-pdf-file-using-python
