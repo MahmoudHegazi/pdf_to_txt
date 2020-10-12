@@ -54,3 +54,5 @@ if __name__ == '__main__':
     extract_information(path)
     
  ```
+
+https://pythonhosted.org/PyPDF2/PdfFileReader.html
